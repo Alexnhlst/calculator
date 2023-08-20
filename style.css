@@ -243,10 +243,6 @@ button {
   opacity: 0;
 }
 
-/* #numpad button:last-child {
-  grid-column: span 2;
-} */
-
 .btn-container {
   grid-area: 5 / 3 / 6 / 5;
   width: 130px;
